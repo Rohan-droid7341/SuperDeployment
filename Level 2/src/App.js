@@ -3,9 +3,9 @@ import NQueen from './Compenents/Visualizer/nqueenComponent';
 
 function App() {
 	return (
-		<div className="App">
-			<NQuee />
-		</div>
+			<>
+				<NQueen />
+			</>
 	);
 }
 
