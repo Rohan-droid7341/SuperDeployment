@@ -4,6 +4,18 @@
 
 [Render](https://superdeployment-dwho.onrender.com)    [GitHub Pages](https://rohan-droid7341.github.io/SuperDeployment/) [Vercel](https://super-deployment-kappa.vercel.app/) [Netlify](https://gleeful-granita-d6f374.netlify.app/) [Railway](https://superdeployment-production.up.railway.app/) [Glitch](https://sugary-famous-shock.glitch.me/Level%200/)
 
+Added my details in the portfolio
+
+Difficulty - There was no difficulty in deploying of the app on any hosting website
+
+## Level 1 (Total 5)
+
+[Render](https://superdeployment-level1.onrender.com/) [Netlify](https://firstlevel1.netlify.app/) [Vercel](https://super-deployment-level1.vercel.app/) [railway](https://superdeployment-production-b042.up.railway.app/) [Glitch](https://sugary-famous-shock.glitch.me/Level%201/)
+
+Difficulty - Deploying on Vercel
+
+Solution - Deleted the Vercel.json file as it was of no use for static website made of html , css , js
+  
 # 🚀 SuperDeployment - Online Deployment Challenge
 
 Welcome to **SuperDeployment**, the ultimate challenge to test and sharpen your deployment skills! Whether you're a beginner or a seasoned dev, this competition will take you through exciting levels of real-world deployment tasks — from static sites to full-stack applications!
