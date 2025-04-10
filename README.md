@@ -15,6 +15,23 @@ Difficulty - There was no difficulty in deploying of the app on any hosting webs
 Difficulty - Deploying on Vercel
 
 Solution - Deleted the Vercel.json file as it was of no use for static website made of html , css , js
+
+## Level 2 (Total 4)
+
+[Vercel](https://super-deployemnt-level2.vercel.app/) [Railway ](https://superdeployemnt-level2-production.up.railway.app/) [Render](https://superdeployemnt-level2.onrender.com/) [Koyeb](https://democratic-joleen-rohan-droid-9a6ae4b5.koyeb.app/)
+
+difficulty - There were multiple typos in importing statements in diferent files | Several missing packages in package.json
+
+
+
+
+
+
+
+
+
+
+
   
 # 🚀 SuperDeployment - Online Deployment Challenge
 
